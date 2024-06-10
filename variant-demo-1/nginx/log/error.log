@@ -1,0 +1,5 @@
+2024/05/03 12:11:36 [emerg] 1#1: getpwnam("www-data") failed in /etc/nginx/nginx.conf:1
+2024/05/03 12:11:53 [emerg] 1#1: unknown directive "js_set" in /etc/nginx/nginx.conf:31
+2024/05/03 12:13:02 [error] 23#23: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8181"
+2024/06/10 14:09:26 [error] 31#31: *1 open() "/etc/nginx/html/static1" failed (2: No such file or directory), client: 192.168.65.1, server: , request: "GET /static1 HTTP/1.1", host: "localhost:8181"
+2024/06/10 14:10:13 [error] 31#31: *6 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8181"
