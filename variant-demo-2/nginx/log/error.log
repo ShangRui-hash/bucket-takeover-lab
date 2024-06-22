@@ -19,3 +19,4 @@
 2024/06/10 14:02:29 [error] 31#31: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8181"
 2024/06/10 14:04:02 [error] 31#31: *15 "/etc/nginx/html/static1/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: , request: "GET /static1/ HTTP/1.1", host: "localhost:8181"
 2024/06/10 14:04:08 [error] 31#31: *16 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8181"
+2024/06/11 15:09:00 [error] 25#25: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8181"

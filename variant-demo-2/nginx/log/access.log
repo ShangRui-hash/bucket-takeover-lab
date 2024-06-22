@@ -1,0 +1,3 @@
+192.168.65.1 - - [11/Jun/2024:15:09:00 +0000] "GET / HTTP/1.1" 404 705 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36" "-"
+192.168.65.1 - - [11/Jun/2024:15:09:21 +0000] "GET /static/1337-guangzhou/index.html HTTP/1.1" 404 461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36" "-"
+192.168.65.1 - - [11/Jun/2024:15:09:27 +0000] "GET /static/1337-guangzh1u/index.html HTTP/1.1" 404 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36" "-"

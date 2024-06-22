@@ -1,0 +1,4 @@
+192.168.65.1 - - [12/Jun/2024:13:41:41 +0000] "GET / HTTP/1.1" 404 705 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36" "-"
+192.168.65.1 - - [12/Jun/2024:13:41:45 +0000] "GET /static HTTP/1.1" 301 363 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36" "-"
+192.168.65.1 - - [12/Jun/2024:13:41:47 +0000] "GET /static/ HTTP/1.1" 403 429 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36" "-"
+192.168.65.1 - - [12/Jun/2024:13:41:51 +0000] "GET /static/123 HTTP/1.1" 404 421 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36" "-"
